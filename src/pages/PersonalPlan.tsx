@@ -285,10 +285,6 @@ Based on your ZIP code ${aiFormData.zipCode}, be aware of:
                         className="w-full h-10 px-3 py-2 border border-input bg-background rounded-md text-sm ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2"
                       >
                         <option value="English">English</option>
-                        <option value="Spanish">Spanish</option>
-                        <option value="Chinese">Chinese</option>
-                        <option value="Korean">Korean</option>
-                        <option value="Vietnamese">Vietnamese</option>
                       </select>
                     </div>
                     <div className="flex items-center space-x-2">
